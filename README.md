@@ -31,6 +31,7 @@ Claude Code · GitHub Copilot · ChatGPT
 | **TailorMind — Menú Take-Home** | Menú de restaurante con carrito de compras. Prueba técnica para proceso de selección real | Astro · Google Sheets · Apps Script · Vercel | [Ver repo](https://github.com/ELMURGA/tailormind-menu-takehome) |
 | **Portfolio Angular** | Portfolio personal desarrollado con Angular y SCSS | Angular · TypeScript · SCSS | [Ver repo](https://github.com/ELMURGA/PortFolio-Angular) |
 | **YSIDORO** | E-commerce para cliente real (en desarrollo) | Next.js · Supabase · Sanity CMS | En desarrollo |
+| **Auditor web** | Herramienta que desarrollé para Dazenty, mi estudio de diseño web y automatización con IA. Se pega una URL y, en unos segundos, se obtiene una auditoría completa con una lista única de qué corregir primero, con el código listo para pegar. |
 
 ---
 
